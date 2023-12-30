@@ -28,7 +28,7 @@ que se puede hacer pero hasta ahora lo único concreto fue la devaluación, el a
 DNU y un proyecto de ley.
 
 El proyecto de ley no es más que un proyecto por ahora, y todavía no podemos decir que
-implique moverse en ninguna dirección. El DNI, si bien pudo haber entrado en vigencia,
+implique moverse en ninguna dirección. El DNU, si bien pudo haber entrado en vigencia,
 queda que los otros dos poderes del estado no lo bloqueen. Por lo tanto habrá que esperar
 a ver qué pasa, ya que puede quedar en la nada y no haber sido más que una gran pérdida de
 tiempo y, en el fondo, un gran freno al impulso con el que asumió. Por lo pronto, a mí me

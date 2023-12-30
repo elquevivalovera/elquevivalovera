@@ -1,0 +1,17 @@
+baseURL: https://elquevivalovera.github.io
+languageCode: es
+title: El que viva lo verá
+theme: PaperMod
+author: Peter Gassendi
+defaultContentLanguage: es
+enableRobotsTXT: true
+
+params:
+  socialIcons:
+    - name: "twitter"
+      title: "Twitter"
+      url: "https://twitter.com/petergassendi"
+
+  ShowShareButtons: true
+  ShareButtons: ['twitter', 'reddit', 'facebook', 'whatsapp', 'telegram' ]
+

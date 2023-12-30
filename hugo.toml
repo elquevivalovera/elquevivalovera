@@ -1,7 +1,0 @@
-baseURL = 'https://elquevivalovera.github.io'
-languageCode = 'es'
-title = 'El que viva lo verá'
-theme = 'PaperMod'
-
-defaultContentLanguage = "es"
-enableRobotsTXT = true
