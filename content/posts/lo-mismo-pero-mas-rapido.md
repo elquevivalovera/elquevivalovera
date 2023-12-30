@@ -43,12 +43,12 @@ iría rapidísimo).
 
 Así, parece más bien que es lo mismo pero más lento. Probablemente al delinear esta
 estrategia el gobierno haya pensado que al estar con tan poco peso en el congreso tenía
-que ensayar estas vías que algunos llaman "popilista" de justificarse discursivamente en
+que ensayar estas vías que algunos llaman "populista" de justificarse discursivamente en
 la voluntad del pueblo, que se manifestó en el ballotage.
 
 Pero más allá de todo este asunto de las estrategias y las tácticas, hay otros temas. Por
 ejemplo, los efectos. Acá se divide la opinión pública entre los que creen que en pocos
-mese la Argentina vuela, en el sentido de que la mano invisible del mercado va a traer la
+meses la Argentina vuela, en el sentido de que la mano invisible del mercado va a traer la
 prosperidad y la abundancia, y los que ven una recesión que va a multiplicar en número de
 desocupados y licuar los salarios y los ahorros de la clase media.
 
@@ -65,8 +65,8 @@ Lo único que podría pasar rápido sería una lluvia de inversiones del exterio
 repatriación de capitales. Pero mejoraría los índices financieros más que nada, dado que
 la modernización de la economía argentina no puede ir a esa velocidad. Además, habrá que
 ver para creer que los inversores le apuesten demasiado fuerte a un personaje que adhiere
-a una ideología marginal llegó a la presidencia de carambola después de llegar a sus 55
-años como asesor formando una familia de perros clonados, que no pudo romper el cordón
-umbilical con su hermana habiendo pasado tantos años de su vida sin hablar con sus padres
-hasta reconciliarse. Un ser temperamental que hizo demasiados papelones en televisión
-insultando otras personas que no piensan como a él le gusta.
+fervientemente a una ideología marginal que llegó a la presidencia de carambola después de
+llegar a sus 55 años como asesor formando una familia de perros clonados, que no pudo
+romper el cordón umbilical con su hermana habiendo pasado tantos años de su vida sin
+hablar con sus padres hasta reconciliarse. Un ser temperamental que hizo demasiados
+papelones en televisión insultando otras personas que no piensan como a él le gusta.
