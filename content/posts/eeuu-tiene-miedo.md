@@ -1,7 +1,6 @@
 ---
 title: "EEUU tiene miedo"
 date: 2022-10-16T11:30:03+00:00
-weight: 1
 ---
 
 En un mundo en el cual todas las personas alcanzaran un nivel alto de

@@ -1,7 +1,6 @@
 ---
 title: "El criptianismo y su moneda"
 date: 2022-05-22T11:30:03+00:00
-weight: 1
 ---
 
 # 
