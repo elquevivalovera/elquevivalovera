@@ -1,5 +1,5 @@
 ---
-title: "Ruido en ls Internet"
+title: "Ruido en la Internet"
 date: 2024-01-13
 ---
 
