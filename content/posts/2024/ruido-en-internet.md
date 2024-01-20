@@ -3,11 +3,6 @@ title: "Ruido en la Internet"
 date: 2024-01-13
 ---
 
-> "Quit singing in the shower at 6 A.M., or i'll scatter your box of cards
-> all over the floor."
-> [Karl Dahlke, bromeando a su compañero de
-> cuarto.](http://www.eklhad.net/philosophy.html)
-
 En en algún momento se va a narrar la historia de la interacción entre la
 raza humana y las máquinas. Para mí es bastante impresionante la velocidad
 con que ha venido cambiando. De una proporción minúscula de gente
